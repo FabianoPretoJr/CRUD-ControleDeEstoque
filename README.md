@@ -1,4 +1,4 @@
-CRUD - Controle de estoque
+#CRUD - Controle de estoque
 
 ## Sobre o projeto
 Projeto simples para exemplificar métodos de autenticação, cadastro, cadastro com chave estrangeira de outra entidade, listagem, listagem com filtro, atualização e exclusão do banco de dados.
